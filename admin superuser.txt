@@ -1,0 +1,5 @@
+Username = admin
+Email: admin@admin.dmin
+Password: admin
+
+NOTE: we code in flutter on flutlab.io

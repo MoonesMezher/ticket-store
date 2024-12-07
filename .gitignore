@@ -1,0 +1,30 @@
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+db.sqlite3
+.env
+venv/
+media/
+.idea/
+.vscode/
+
+# Flutter
+build/
+.dart_tool/
+.flutter-plugins
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+android/.gradle/
+android/local.properties
+android/captures/
+android/gradlew
+android/gradlew.bat
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/Flutter/Flutter.framework
+ios/Flutter/App.framework
